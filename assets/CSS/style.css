@@ -1,0 +1,31 @@
+body  {
+		padding-left: 11em;
+		font-family: 'Poppins', sans-serif;
+		color: royalblue;
+		background-color: white;	
+}
+ul.navbar {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+
+	position: absolute;
+	top: 8em;
+	left: 1em;
+	width: 9em }
+
+ul.navbar li {
+	background: skyblue;
+	margin: 0.5em 0;
+	padding: 0.3em;
+	border-right: 1em darkblue; }
+	ul.navbar a {
+		text-decoration: none}
+	a:link {
+		color: royalblue}
+	a:visited { 
+		color: purple } 
+
+
+h1 {
+	font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif; }
